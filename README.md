@@ -4,5 +4,4 @@
 
 - :orange_book: Focusing on Computer vision & ROS
 - :hammer: Creator of robots' algorithm
-- :ram: Undergraduate of USC
 - :meat_on_bone: Meat lover
