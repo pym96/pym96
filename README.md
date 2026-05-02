@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub! I'm passionate about **Computer Vision** and **Robotics**, specializing in creating algorithms for robots and working with **ROS**. Here's a little more about me:
+Welcome to my GitHub I am Pan Jiaxiang! I'm passionate about **Computer Vision** and **Robotics**, specializing in creating algorithms for robots and working with **ROS**. Here's a little more about me:
 ympan@shu.edu.cn
 ---
 
