@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my GitHub! I'm passionate about **Computer Vision** and **Robotics**, specializing in creating algorithms for robots and working with **ROS**. Here's a little more about me:
-pym66@outlook.com
+ympan@shu.edu.cn
 ---
 
 ### 🚀 About Me
