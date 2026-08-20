@@ -1,11 +1,11 @@
 ### Hi there 👋
-Welcome to my GitHub! I am Pan Jiaxiang. I'm passionate about **Computer Vision** and **Robotics**, specializing in creating algorithms for robots and working with **ROS**. Here's a little more about me:
+Welcome to my GitHub! I am Pan Jiaxiang. I'm passionate about **Computer Vision** and **LLM**. Here's a little more about me:
 ympan@shu.edu.cn
 ---
 
 ### 🚀 About Me
 - :orange_book: **Focus**: Computer Vision & LLM  
-- :hammer: **Creator**: Developing algorithms about 3D reconstruction and world model in 2025.
+- :hammer: **Creator**: Developing algorithms about 3D reconstruction and harness agent in 2026.
 - :meat_on_bone: **Fun Fact**: Meat lover 🍖  
 
 
