@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm **Pan Jiaxiang**, a graduate student interested in **LLM, AI Agents, and post-training**.  
+Welcome to my GitHub! I'm **Ryan Pan**, a graduate student interested in **LLM, AI Agents, and post-training**.  
 I enjoy building reliable Agent systems, experimenting with model behavior, and turning research ideas into reproducible engineering projects.
 
 ---
