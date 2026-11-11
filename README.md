@@ -4,7 +4,6 @@ Welcome to my GitHub! I'm **Ryan Pan**, a graduate student interested in **LLM, 
 I enjoy building reliable Agent systems, experimenting with model behavior, and turning research ideas into reproducible engineering projects.
 
 **[Visit my personal website →](https://pym96.github.io/)**  
-Explore my previous work, current projects, academic work, and personal skill library in an interactive ASCII universe.
 
 ---
 
